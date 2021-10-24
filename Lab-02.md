@@ -146,29 +146,3 @@ POST _bulk
 9. Click on the play button to perform the request and get the response.
 
   ![dev-tools](/images/dev-tools-2.png)
-
-10. Now that we have some data lets create our first dashboard. Go to Analytics > Dashboard and click the "Create Dashboard" Button
-
-  ![dashboard-1](/images/dashboard-1.png)
-
-11. Click on the create panel button
-
-  ![dashboard-2](/images/dashboard-2.png)
-
-12. Chose the Lens option
-
-  ![dashboard-3](/images/dashboard-3.png)
-
-13. Chose the "Bar" chart type
-
-14. From the menu on the left drag the field "username.keyword" and drop it to the Horizontal axis
-
-15. From the menu on the left drag the field "ammount" and drop it to the Vertical axis then select Sum
-
-17. It should look like the following picture:
-
-  ![dashboard-4](/images/dashboard-4.png)
-
-17. Click the "Save and Return" button to save the new panel.
-
-18. Click the "Save" button to save the dashboard and give it a name.
